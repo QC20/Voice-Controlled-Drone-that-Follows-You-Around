@@ -3,7 +3,6 @@ The Reptile V500 (HCRECO0002) is a low cost but big on features and versatility 
 
 
 Features:
-
 Center lower plate: 1-4pcs 45 * 45mm flight control board (FF, kk, rabbit, pirate, MWC, etc.)
 With extension board a paralel ESC or 4-in-1 ESC can be installed.
 With mounting holes for Wireless Transmitter ,CCD,OSD,GPS antenna,special design for installing NAZA flight control (long hole left for VELCRO to fix the controller), holes for tall landing skids.
@@ -16,7 +15,6 @@ Recommended motors: 2212 2213 2216 4006 5005
 
 
 Specifications:
-
 Wheelbase: 500mm
 Min Arm distance: 380mm
 Max Arm distance: 480mm
