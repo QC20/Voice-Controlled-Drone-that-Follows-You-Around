@@ -1,0 +1,25 @@
+Details
+The Reptile V500 (HCRECO0002) is a low cost but big on features and versatility 500mm quadcopter frame. The two level design provides numerous options for mounting various electronics for you flight control system, battery, ESC's, and camera. It's strong ABS arms provide good protection from crashes or hard landings. Mounting points are provided for common types of brushless motors (see below) and fixing bolts are included as part for the kit. Please note that this is a kit of parts and requires assembly. 
+
+
+Features:
+
+Center lower plate: 1-4pcs 45 * 45mm flight control board (FF, kk, rabbit, pirate, MWC, etc.)
+With extension board a paralel ESC or 4-in-1 ESC can be installed.
+With mounting holes for Wireless Transmitter ,CCD,OSD,GPS antenna,special design for installing NAZA flight control (long hole left for VELCRO to fix the controller), holes for tall landing skids.
+2200 mAh battery can be fixed at the end of the lower plate.
+Center upper plate: with cross holes for mounting NAZA GPS and aluminium mounting plate (38 * 38/33 * 33) in front of it for FPV camera.
+Transmitter or remote control receiver and other components can be set at the end of the plate.
+Arms: similar arms to F450, F550
+Biggest propeller can be used: 12-inch (10 inch recommended)
+Recommended motors: 2212 2213 2216 4006 5005
+
+
+Specifications:
+
+Wheelbase: 500mm
+Min Arm distance: 380mm
+Max Arm distance: 480mm
+MaterialGlassfiber+ ABS Plastic
+Weight: 485g
+
